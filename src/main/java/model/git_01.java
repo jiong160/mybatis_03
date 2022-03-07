@@ -5,5 +5,6 @@ public class git_01 {
         System.out.println("jiang");
         System.out.println("jgigi");
         System.out.println("ldlk");
+        int i=0;
     }
 }
